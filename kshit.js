@@ -36,11 +36,11 @@
 
 
 
-let num1 = 30;
-let num2 = 60;
-ans = num1+num2;
-total = ans/2
-console.log(total);
+// let num1 = 30;
+// let num2 = 60;
+// ans = num1+num2;
+// total = ans/2
+// console.log(total);
 
 // let a = 10 
 // if(a>5){
@@ -59,3 +59,34 @@ console.log(total);
 //   num = Math.floor(num/10)
 //  }
 //  console.log(sum);
+
+// var num = 12345
+// for(let i=5; i>=1; i-2 ){
+//    console.log(i)
+// }
+
+// while(num>0){
+//   var p = 
+// }
+
+
+// for(let i=1; i<=10; i++){
+//   console.log(i)
+  
+// }
+
+// for(let i=10; i<=20; i++){
+//   console.log(i)
+// } 
+
+// for(let i=10; i<=20; i--){
+//   console.log(i)
+// } 
+
+let num1=500
+let num2=100
+if (num1+num2<=500) {
+  console.log("yes")
+}else{
+  console.log("no")
+}
